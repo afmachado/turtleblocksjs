@@ -64,12 +64,12 @@ msgstr "iniciar"
 
 #: js/block.js:625
 msgid "matrix"
-msgstr ""
+msgstr "matriz"
 
 #: js/block.js:628
 #: js/turtle.js:386
 msgid "drum"
-msgstr ""
+msgstr "tambor"
 
 #: js/samplesviewer.js:26
 #: js/samplesviewer.js:26
@@ -107,7 +107,7 @@ msgstr "mundial"
 
 #: js/activity.js:427
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 #: js/activity.js:1955
 msgid "Run fast"
@@ -115,7 +115,7 @@ msgstr "Executar rápido"
 
 #: js/activity.js:1955
 msgid "Long press to run slow"
-msgstr ""
+msgstr "Aperto longo para executar devagar "
 
 #: js/activity.js:1956
 #: js/turtledefs.js:45
@@ -124,11 +124,11 @@ msgstr "Executar passo a passo"
 
 #: js/activity.js:1957
 msgid "Run music slow"
-msgstr ""
+msgstr "Executar música devagar"
 
 #: js/activity.js:1958
 msgid "Run note by note"
-msgstr ""
+msgstr "Executar nota por nota"
 
 #: js/activity.js:1959
 #: js/turtledefs.js:46
@@ -159,7 +159,7 @@ msgstr "Expandir/recolher blocos contraíveis"
 #: js/activity.js:2005
 #: js/turtledefs.js:51
 msgid "Home"
-msgstr ""
+msgstr "Inicial"
 
 #: js/activity.js:1965
 #: js/turtledefs.js:52
@@ -174,7 +174,7 @@ msgstr "Abrir exemplos do servidor"
 #: js/activity.js:2034
 #: js/turtledefs.js:55
 msgid "Load project from files"
-msgstr ""
+msgstr "Carregar projeto de arquivos"
 
 #: js/activity.js:2035
 #: js/turtledefs.js:56
@@ -183,7 +183,7 @@ msgstr "Salvar projeto"
 
 #: js/activity.js:2036
 msgid "Save sheet music"
-msgstr ""
+msgstr "Salvar folha da música"
 
 #: js/activity.js:2037
 #: js/turtledefs.js:58
@@ -253,46 +253,46 @@ msgstr "extras"
 #: js/status.js:84
 #: js/status.js:84
 msgid "close"
-msgstr ""
+msgstr "fechar"
 
 #: js/logo.js:173
 msgid "true"
-msgstr ""
+msgstr "verdadeiro"
 
 #: js/logo.js:175
 msgid "false"
-msgstr ""
+msgstr "falso"
 
 #: js/logo.js:1065
 #: js/logo.js:1405
 msgid "You must select a file."
-msgstr ""
+msgstr "Você deve selecionar um arquivo"
 
 #: js/logo.js:1415
 #: plugins/heap.rtp:96
 msgid "The file you selected does not contain a valid heap."
-msgstr ""
+msgstr "O arquivo que você selecionou não contém uma pilha válida"
 
 #: js/logo.js:1419
 #: plugins/heap.rtp:102
 msgid "The loadHeap block needs a loadFile block."
-msgstr ""
+msgstr "O bloco Carrega-Pilha precisa de um bloco Carrega-Arquivo"
 
 #: js/logo.js:1435
 msgid "Error parsing JSON data:"
-msgstr ""
+msgstr "Erro ao analisar dados JSON"
 
 #: js/logo.js:1440
 msgid "404: Page not found"
-msgstr ""
+msgstr "404: Página não encontrada"
 
 #: js/logo.js:1464
 msgid "turtleHeaps does not contain a valid heap for"
-msgstr ""
+msgstr "Pilhas-tartaruga não contém uma pilha válida para"
 
 #: js/logo.js:1474
 msgid "Index must be > 0."
-msgstr ""
+msgstr "Índice deve ser > 0"
 
 #: js/logo.js:2199
 #: js/basicblocks.js:730
@@ -326,7 +326,7 @@ msgstr "texto"
 #: js/palette.js:1795
 #: js/palette.js:1802
 msgid "sol"
-msgstr ""
+msgstr "sun"
 
 #: js/palette.js:620
 #: js/basicblocks.js:503
@@ -364,21 +364,21 @@ msgstr ""
 
 #: js/palette.js:1782
 msgid "la"
-msgstr ""
+msgstr "la"
 
 #: js/palette.js:1802
 msgid "mi"
-msgstr ""
+msgstr "mi"
 
 #: js/palette.js:1802
 msgid "re"
-msgstr ""
+msgstr "ré"
 
 #: js/turtle.js:385
 #: js/turtle.js:524
 #: js/turtle.js:525
 msgid "start drum"
-msgstr ""
+msgstr "iniciar tambor"
 
 #: js/turtledefs.js:22
 msgid "boolean"
@@ -386,11 +386,11 @@ msgstr "booleano"
 
 #: js/turtledefs.js:22
 msgid "boxes"
-msgstr ""
+msgstr "caixas"
 
 #: js/turtledefs.js:22
 msgid "actions"
-msgstr ""
+msgstr "ações"
 
 #: js/turtledefs.js:22
 msgid "heap"
@@ -414,7 +414,7 @@ msgstr "Esta barra de ferramentas contém a paleta de botões, clique para mostr
 
 #: js/turtledefs.js:44
 msgid "Run"
-msgstr ""
+msgstr "Executar"
 
 #: js/turtledefs.js:44
 msgid "Click to run the project in fast mode."
@@ -422,7 +422,7 @@ msgstr "Clique para executar o projeto em modo rápido"
 
 #: js/turtledefs.js:44
 msgid "Long press to run the project in slow mode."
-msgstr ""
+msgstr "Aperto longo para executar o projeto em modo devagar"
 
 #: js/turtledefs.js:45
 msgid "Click to run the project step by step."
@@ -450,7 +450,7 @@ msgstr "Expandir ou recolher pilhas de início e de ação."
 
 #: js/turtledefs.js:51
 msgid "Return all blocks to the center of the screen."
-msgstr ""
+msgstr "Retornar todos os blocos para o centro da tela"
 
 #: js/turtledefs.js:52
 msgid "Show these messages."
@@ -474,7 +474,7 @@ msgstr "Você também pode utilizar projetos a partir do sistema de arquivos"
 
 #: js/turtledefs.js:56
 msgid "Save your project to a file."
-msgstr ""
+msgstr "Salvar seu projeto em um arquivo"
 
 #: js/turtledefs.js:57
 msgid "Copy"
@@ -482,7 +482,7 @@ msgstr "copiar"
 
 #: js/turtledefs.js:57
 msgid "The copy button copies a stack to the clipboard. It appears after a \"long press\" on a stack."
-msgstr ""
+msgstr "O botão copiar copia uma pilha para a área de transferência. Ela aparece após um \"aperto longo\" em uma pilha"
 
 #: js/turtledefs.js:58
 msgid "The paste button is enabled when there are blocks copied onto the clipboard."
@@ -596,11 +596,11 @@ msgstr "limpar"
 
 #: js/basicblocks.js:93
 msgid "control point 2"
-msgstr ""
+msgstr "ponto de controle 2"
 
 #: js/basicblocks.js:104
 msgid "control point 1"
-msgstr ""
+msgstr "ponto de controle 1"
 
 #: js/basicblocks.js:115
 msgid "bezier"
@@ -677,15 +677,15 @@ msgstr "largura do traço"
 
 #: js/basicblocks.js:240
 msgid "set font"
-msgstr ""
+msgstr "definir fonte"
 
 #: js/basicblocks.js:256
 msgid "hollow line"
-msgstr ""
+msgstr "linha vazia"
 
 #: js/basicblocks.js:263
 msgid "fill"
-msgstr ""
+msgstr "preencher"
 
 #: js/basicblocks.js:270
 msgid "pen up"
@@ -701,11 +701,11 @@ msgstr "define largura da caneta"
 
 #: js/basicblocks.js:292
 msgid "set translucency"
-msgstr ""
+msgstr "definir translucidez"
 
 #: js/basicblocks.js:300
 msgid "set hue"
-msgstr ""
+msgstr "definir tonalidade"
 
 #: js/basicblocks.js:308
 msgid "set shade"
@@ -721,7 +721,7 @@ msgstr "definir cor"
 
 #: js/basicblocks.js:334
 msgid "int"
-msgstr ""
+msgstr "inteiro"
 
 #: js/basicblocks.js:370
 msgid "and"
@@ -749,15 +749,15 @@ msgstr "um de"
 
 #: js/basicblocks.js:448
 msgid "this"
-msgstr ""
+msgstr "isso"
 
 #: js/basicblocks.js:448
 msgid "that"
-msgstr ""
+msgstr "aquilo"
 
 #: js/basicblocks.js:459
 msgid "random"
-msgstr ""
+msgstr "aleatório"
 
 #: js/basicblocks.js:459
 msgid "min"
@@ -804,21 +804,21 @@ msgstr "fazer"
 
 #: js/basicblocks.js:534
 msgid "return"
-msgstr ""
+msgstr "retornar"
 
 #: js/basicblocks.js:544
 msgid "return to URL"
-msgstr ""
+msgstr "retornar para URL"
 
 #: js/basicblocks.js:548
 msgid "100"
-msgstr ""
+msgstr "100"
 
 #: js/basicblocks.js:554
 #: js/basicblocks.js:580
 #: js/basicblocks.js:599
 msgid "calculate"
-msgstr ""
+msgstr "calcular"
 
 #: js/basicblocks.js:627
 msgid "on"
@@ -836,11 +836,11 @@ msgstr "transmissão"
 
 #: js/basicblocks.js:675
 msgid "load heap from App"
-msgstr ""
+msgstr "carregar pilha de App"
 
 #: js/basicblocks.js:686
 msgid "save heap to App"
-msgstr ""
+msgstr "salvar pilha em App"
 
 #: js/basicblocks.js:697
 msgid "set heap"
@@ -886,7 +886,7 @@ msgstr "empurrar"
 #: js/basicblocks.js:772
 #: plugins/heap.rtp:118
 msgid "pop"
-msgstr ""
+msgstr "estourar"
 
 #: js/basicblocks.js:781
 msgid "speak"
@@ -919,7 +919,7 @@ msgstr "nota"
 
 #: js/basicblocks.js:826
 msgid "octave"
-msgstr ""
+msgstr "oitava"
 
 #: js/basicblocks.js:837
 msgid "shell"
@@ -936,7 +936,7 @@ msgstr "imagem"
 
 #: js/basicblocks.js:848
 msgid "obj"
-msgstr ""
+msgstr "obj"
 
 #: js/basicblocks.js:886
 #: plugins/rodi.rtp:31
@@ -955,7 +955,7 @@ msgstr "até que"
 
 #: js/basicblocks.js:907
 msgid "while"
-msgstr ""
+msgstr "enquanto"
 
 #: js/basicblocks.js:914
 #: js/basicblocks.js:921
@@ -1039,7 +1039,7 @@ msgstr "Esconder blocos"
 
 #: js/basicblocks.js:1096
 msgid "open project"
-msgstr ""
+msgstr "abrir projeto"
 
 #: js/basicblocks.js:1120
 msgid "wait"
@@ -1070,7 +1070,7 @@ msgstr "alvo"
 #: js/basicblocks.js:1157
 #: plugins/rodi.rtp:325
 msgid "status"
-msgstr ""
+msgstr "status"
 
 #: js/basicblocks.js:1166
 msgid "loudness"
@@ -1083,34 +1083,34 @@ msgstr "clique"
 #: js/basicblocks.js:1182
 #: plugins/rodi.rtp:223
 msgid "blue"
-msgstr ""
+msgstr "azul"
 
 #: js/basicblocks.js:1189
 #: plugins/rodi.rtp:222
 msgid "green"
-msgstr ""
+msgstr "verde"
 
 #: js/basicblocks.js:1196
 #: plugins/rodi.rtp:221
 msgid "red"
-msgstr ""
+msgstr "vermelho"
 
 #: js/basicblocks.js:1203
 #: plugins/rodi.rtp:220
 msgid "pixel color"
-msgstr ""
+msgstr "cor do píxel"
 
 #: js/basicblocks.js:1210
 msgid "time"
-msgstr ""
+msgstr "tempo"
 
 #: js/basicblocks.js:1217
 msgid "mouse x"
-msgstr ""
+msgstr "mouse x"
 
 #: js/basicblocks.js:1225
 msgid "mouse y"
-msgstr ""
+msgstr "mouse y"
 
 #: js/basicblocks.js:1233
 msgid "mouse button"
@@ -1118,7 +1118,7 @@ msgstr "botão do mouse"
 
 #: js/basicblocks.js:1240
 msgid "to ASCII"
-msgstr ""
+msgstr "para ASCII"
 
 #: js/basicblocks.js:1247
 msgid "keyboard"
@@ -1130,7 +1130,7 @@ msgstr "avalie"
 
 #: js/utilitybox.js:77
 msgid "Disable scrolling"
-msgstr ""
+msgstr "Desabilitar rolagem"
 
 #: plugins/finance.rtp:28
 msgid "currency"
@@ -1143,7 +1143,7 @@ msgstr "de"
 
 #: plugins/finance.rtp:69
 msgid "stock price"
-msgstr ""
+msgstr "estocar preço"
 
 #: plugins/impact.rtp:32
 msgid "fetch"
@@ -1151,7 +1151,7 @@ msgstr "buscar"
 
 #: plugins/impact.rtp:32
 msgid "UID"
-msgstr ""
+msgstr "UID"
 
 #: plugins/impact.rtp:32
 msgid "field"
@@ -1164,24 +1164,24 @@ msgstr "horas atrás"
 #: plugins/impact.rtp:63
 #: plugins/impact.rtp:127
 msgid "Impact data not available."
-msgstr ""
+msgstr "Dados de Impacto não disponíveis"
 
 #: plugins/impact.rtp:69
 msgid "Cannot parse Impact data."
-msgstr ""
+msgstr "Não é possível analisar dados de Impacto"
 
 #: plugins/impact.rtp:100
 #: plugins/impact.rtp:114
 msgid "Impact field not found."
-msgstr ""
+msgstr "Campo de Impacto não encontrado"
 
 #: plugins/impact.rtp:122
 msgid "Impact UID not found."
-msgstr ""
+msgstr "UID de Impacto não encontrado"
 
 #: plugins/impact.rtp:124
 msgid "Impact Time not found."
-msgstr ""
+msgstr "Hora do Impacto não encontrada"
 
 #: plugins/translate.rtp:73
 msgid "translate"
@@ -1230,7 +1230,7 @@ msgstr "fator de zoom"
 
 #: plugins/gmap.rtp:144
 msgid "zoom"
-msgstr ""
+msgstr "zoom"
 
 #: plugins/gmap.rtp:160
 msgid "latitude"
@@ -1282,7 +1282,7 @@ msgstr "movimento x"
 
 #: plugins/accelerometer.rtp:56
 msgid "motion y"
-msgstr ""
+msgstr "movimento y"
 
 #: plugins/accelerometer.rtp:64
 msgid "motion z"
@@ -1350,7 +1350,7 @@ msgstr "maçã"
 
 #: plugins/nutrition.rtp:161
 msgid "banana"
-msgstr ""
+msgstr "banana"
 
 #: plugins/nutrition.rtp:164
 msgid "orange"
@@ -1394,7 +1394,7 @@ msgstr "queijo"
 
 #: plugins/nutrition.rtp:194
 msgid "chicken"
-msgstr ""
+msgstr "galinha"
 
 #: plugins/nutrition.rtp:197
 msgid "fish"
@@ -1402,7 +1402,7 @@ msgstr "peixe"
 
 #: plugins/nutrition.rtp:200
 msgid "beef"
-msgstr ""
+msgstr "bife"
 
 #: plugins/nutrition.rtp:203
 msgid "cake"
@@ -1418,7 +1418,7 @@ msgstr "água"
 
 #: plugins/bitcoin.rtp:27
 msgid "bitcoin"
-msgstr ""
+msgstr "moeda virtual"
 
 #: plugins/facebook.rtp:27
 msgid "publish"
@@ -1431,11 +1431,11 @@ msgstr "comentar"
 #: plugins/weather.rtp:62
 #: plugins/weather.rtp:86
 msgid "Days ahead must be in the range of -1 to 5."
-msgstr ""
+msgstr "Dias à frente devem estar na faixa de -1 a 5"
 
 #: plugins/weather.rtp:107
 msgid "forecast"
-msgstr ""
+msgstr "previsão"
 
 #: plugins/weather.rtp:108
 #: plugins/weather.rtp:122
@@ -1451,19 +1451,19 @@ msgstr "dia"
 
 #: plugins/weather.rtp:121
 msgid "high"
-msgstr ""
+msgstr "alto"
 
 #: plugins/weather.rtp:134
 msgid "low"
-msgstr ""
+msgstr "baixo"
 
 #: plugins/rodi.rtp:176
 msgid "blink"
-msgstr ""
+msgstr "piscar"
 
 #: plugins/rodi.rtp:195
 msgid "play"
-msgstr ""
+msgstr "jogar"
 
 #: plugins/rodi.rtp:197
 msgid "duration"
@@ -1471,23 +1471,23 @@ msgstr "duração"
 
 #: plugins/rodi.rtp:250
 msgid "led"
-msgstr ""
+msgstr "led"
 
 #: plugins/rodi.rtp:269
 msgid "light intensity"
-msgstr ""
+msgstr "intensidade da luz"
 
 #: plugins/rodi.rtp:283
 msgid "infrared light (left)"
-msgstr ""
+msgstr "luz infravermelha (esquerda)"
 
 #: plugins/rodi.rtp:297
 msgid "infrared light (right)"
-msgstr ""
+msgstr "luz infravermelha (direita)"
 
 #: plugins/rodi.rtp:311
 msgid "distance"
-msgstr ""
+msgstr "distância"
 
 #: plugins/rodi.rtp:339
 msgid "move"
@@ -1496,7 +1496,7 @@ msgstr "mover"
 #: plugins/heap.rtp:81
 #: plugins/heap.rtp:85
 msgid "You need to select a file."
-msgstr ""
+msgstr "Você precisa selecionar um arquivo"
 
 #~msgid "food"
 #~msgstr "comida"
@@ -1530,12 +1530,12 @@ msgstr ""
 #: js/basicblocks.js:1030
 
 #~msgid "save as lilypond"
-#~msgstr ""
+#~msgstr "salvar como lilypond"
 
 #: js/basicblocks.js:1105
 
 #~msgid "openProject"
-#~msgstr ""
+#~msgstr "Projeto aberto"
 
 #: js/activity.js:1949
 
