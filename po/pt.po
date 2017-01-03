@@ -24,10 +24,10 @@ msgid ""
 msgstr ""
 
 msgid "Delete all"
-msgstr "Apaguar tudo"
+msgstr "Apagar tudo"
 
 msgid "show"
-msgstr "mostre"
+msgstr "mostrar"
 
 msgid "text"
 msgstr "texto"
@@ -36,7 +36,7 @@ msgid "random"
 msgstr "aleatório"
 
 msgid "confirm"
-msgstr "confirme"
+msgstr "confirmar"
 
 msgid "rice and beans"
 msgstr "arroz e feijão"
@@ -91,13 +91,13 @@ msgid "to"
 msgstr "a"
 
 msgid "add"
-msgstr "adicione"
+msgstr "adicionar"
 
 msgid "set pen size"
-msgstr "define largura da caneta"
+msgstr "definir largura da caneta"
 
 msgid "start turtle"
-msgstr "inicia tartaruga"
+msgstr "iniciar tartaruga"
 
 msgid "latitude"
 msgstr "latitude"
@@ -140,7 +140,7 @@ msgstr "Expande ou recolhe pilhas de início e de ação."
 
 #. TRANS: pop a value off of the heap.
 msgid "pop"
-msgstr ""
+msgstr "retirar"
 
 msgid "background"
 msgstr "preencha a tela"
@@ -397,7 +397,7 @@ msgid "sensors"
 msgstr "sensores"
 
 msgid "pen down"
-msgstr "baixe caneta"
+msgstr "baixar caneta"
 
 #. TRANS: retrieve the value at a specific entry (index) in the heap
 msgid "index heap"
@@ -407,7 +407,7 @@ msgid "get name"
 msgstr "obter nome"
 
 msgid "wait"
-msgstr "espere"
+msgstr "esperar"
 
 #. TRANS: a container for a variable
 msgid "box"
@@ -417,15 +417,15 @@ msgid "Planet"
 msgstr "Planeta"
 
 msgid "Show these messages."
-msgstr "Mostre estas mensagens"
+msgstr "Mostrar estas mensagens"
 
 #. TRANS: object
 msgid "obj"
-msgstr ""
+msgstr "obj"
 
 #. TRANS: store a value in a box
 msgid "store in"
-msgstr "armazene em"
+msgstr "armazenar em"
 
 msgid "digest meal"
 msgstr "diferir refeição"
@@ -551,10 +551,10 @@ msgid "wait for"
 msgstr "espere por"
 
 msgid "pen up"
-msgstr "levante caneta"
+msgstr "levantar caneta"
 
 msgid "Decrease the size of the blocks."
-msgstr "Diminui o tamanho dos blocos"
+msgstr "Diminuir o tamanho dos blocos"
 
 msgid "start"
 msgstr "iniciar"
@@ -608,7 +608,7 @@ msgstr "teto"
 
 #. TRANS: a turtle shell
 msgid "shell"
-msgstr "roupa da tartaruga"
+msgstr "aparência"
 
 #. TRANS: flash (blink) an LED light
 msgid "blink (ms)"
@@ -647,7 +647,7 @@ msgstr "monte"
 
 #. TRANS: fill refers to filling a shape with a color (e.g., paint bucket).
 msgid "begin fill"
-msgstr "finalize preenchimento"
+msgstr "começar preenchimento"
 
 #. TRANS: use sensor to detect objects on the right
 msgid "sense right"
@@ -669,7 +669,7 @@ msgstr "Dados de coordanadas não disponíveis"
 
 #. TRANS: hue refers to spectral hue (red, yellow, green, blue...)
 msgid "set hue"
-msgstr "defina cor"
+msgstr "definir cor"
 
 msgid "currency"
 msgstr "moeda"
@@ -741,11 +741,11 @@ msgstr "e"
 
 #. TRANS: grey refers to chroma (grey to vivid)
 msgid "set grey"
-msgstr "defina cinza"
+msgstr "definir cinza"
 
 #. TRANS: do this action
 msgid "do"
-msgstr "faça"
+msgstr "fazer"
 
 msgid "calories"
 msgstr "calorias"
@@ -777,7 +777,7 @@ msgid "if"
 msgstr "se"
 
 msgid "Save your project to a server."
-msgstr "Salva seu projeto para um servidor"
+msgstr "Salvar seu projeto para um servidor"
 
 msgid "Decrease block size"
 msgstr "Diminui o tamanho do bloco"
@@ -804,7 +804,7 @@ msgstr "raiz quadrada"
 
 #. TRANS: as in button click
 msgid "click"
-msgstr "clique"
+msgstr "clicar"
 
 msgid "note"
 msgstr "nota"
@@ -873,7 +873,7 @@ msgid "rodi"
 msgstr "RoDi"
 
 msgid "Clean"
-msgstr "Limpe"
+msgstr "Limpar"
 
 #. TRANS: color refers to a hue, value, chroma triplet
 msgid "set color"
