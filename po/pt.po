@@ -118,10 +118,10 @@ msgid "move"
 msgstr "mover"
 
 msgid "Stop the current project."
-msgstr "Para o projeto atual"
+msgstr "Parar o projeto atual"
 
 msgid "stop turtle"
-msgstr "Para a tartaruga"
+msgstr "Parar a tartaruga"
 
 msgid "food"
 msgstr "comida"
